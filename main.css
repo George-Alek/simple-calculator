@@ -1,0 +1,28 @@
+.calculator {
+  width: 422px;
+  height:700px;
+  overflow: auto;
+  /*margin-left: 400px;*/
+  /*margin-top: 100px;*/
+  /*border: 1px solid lightgrey;*/
+}
+
+.row {
+  /*height: 120px;*/
+  border: 1px solid red;
+}
+.box1 {
+  display: inline-block;
+  margin: 0px;
+  width: 100px;
+  height: 120px;
+  border: 1px solid red;
+}
+
+.box2 {
+  display: inline-block;
+  margin: 0px;
+  width: 300px;
+  height: 122px;
+  border: 1px solid red;
+}
